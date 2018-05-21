@@ -1,0 +1,7 @@
+C:\Users\joshb\Desktop\Software\UdemyC#\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe.config
+C:\Users\joshb\Desktop\Software\UdemyC#\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe
+C:\Users\joshb\Desktop\Software\UdemyC#\TypeConversion\TypeConversion\bin\Debug\TypeConversion.pdb
+C:\Users\joshb\Desktop\Software\UdemyC#\TypeConversion\TypeConversion\obj\Debug\TypeConversion.csprojResolveAssemblyReference.cache
+C:\Users\joshb\Desktop\Software\UdemyC#\TypeConversion\TypeConversion\obj\Debug\TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\joshb\Desktop\Software\UdemyC#\TypeConversion\TypeConversion\obj\Debug\TypeConversion.exe
+C:\Users\joshb\Desktop\Software\UdemyC#\TypeConversion\TypeConversion\obj\Debug\TypeConversion.pdb
